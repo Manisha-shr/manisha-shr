@@ -1,7 +1,7 @@
 # Manisha Sharma - Business intelligence and Data Aanlyst
 
 ## About Me
-Hello! I'm Manisha Sharma, a highly skilled Data Engineer with over 6 years of experience. My expertise lies in Power BI, SQL, Python, Dashboard Development, and Business Intelligence. I am passionate about turning raw data into meaningful insights and driving informed decision-making.
+Hello! I'm Manisha Sharma, a highly skilled Data Analyst with over 6 years of experience. My expertise lies in Power BI, SQL, Python, Dashboard Development, and Business Intelligence. I am passionate about turning raw data into meaningful insights and driving informed decision-making.
 
 ## Skills
 - **Power BI:** Expert in creating interactive and insightful dashboards.
