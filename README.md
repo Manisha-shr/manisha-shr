@@ -22,14 +22,14 @@ Hello! I'm Manisha Sharma, a highly skilled Data Analyst with over 6 years of ex
 
 ### Sales Dashboard
 - Developed a comprehensive sales dashboard using Power BI to analyze sales trends, revenue, and customer behavior.
-- ![Sales Dashboard](capstone_dashboard.png)
+- ![Sales Dashboard](sales_1.png)
 
-### Customer Segmentation Analysis
-- Utilized advanced SQL queries and Python to perform customer segmentation analysis, resulting in targeted marketing strategies.
-- ![Customer Segmentation](images/customer_segmentation.png)
+### Sales, profit, marketing spend analysis of goods
+- Utilized advanced SQL queries to draw insights on the sales of goods and which items are selling the most.
+- ![Goods Sales](case_study_1.sql)
 
 ## Contact
-- LinkedIn: [Manisha Sharma](https://www.linkedin.com/in/manisha-sharma)
-- Email: manisha.sharma@email.com
+- LinkedIn: [Manisha Sharma](www.linkedin.com/in/sharmamanisha383)
+- Email: sharmamanisha383@gmail.com
 
 Feel free to explore my repositories for more projects and contributions. Let's connect and collaborate on exciting data-driven endeavors!
