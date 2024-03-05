@@ -22,7 +22,7 @@ Hello! I'm Manisha Sharma, a highly skilled Data Analyst with over 6 years of ex
 
 ### Sales Dashboard
 - Developed a comprehensive sales dashboard using Power BI to analyze sales trends, revenue, and customer behavior.
-- ![Sales Dashboard](images/capstone_dashboard.png)
+- ![Sales Dashboard](capstone_dashboard.png)
 
 ### Inventory Management System
 - Implemented an efficient inventory management system using SQL and Python, optimizing stock levels and reducing wastage.
